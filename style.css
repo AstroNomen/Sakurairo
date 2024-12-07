@@ -837,7 +837,7 @@ input[type=week] {
   background: rgba(255, 255, 255, .7);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  /*border-bottom: 1.5px solid #FFFFFF;*/
+  border-bottom: 1.5px solid #F5F5F5;
   transition: all 0.6s ease-in-out;
   width: 100%;
   left: 0;
